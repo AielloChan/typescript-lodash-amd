@@ -47,7 +47,7 @@ var dojoConfig = {
 
 {
   "globalDependencies": {
-    "lodash": "github:AielloChan/"
+    "lodash": "github:AielloChan/typescript-lodash-amd/lodash.d.ts#3a554ba"
   }
 }
 ```
